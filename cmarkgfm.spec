@@ -4,7 +4,7 @@
 #
 Name     : cmarkgfm
 Version  : 0.6.0
-Release  : 17
+Release  : 18
 URL      : https://files.pythonhosted.org/packages/c7/c7/bcf75fb779ef299b0923a92b1621dde1092a459246cdb4d3613e0388eb0c/cmarkgfm-0.6.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c7/c7/bcf75fb779ef299b0923a92b1621dde1092a459246cdb4d3613e0388eb0c/cmarkgfm-0.6.0.tar.gz
 Summary  : Minimal bindings to GitHub's fork of cmark
